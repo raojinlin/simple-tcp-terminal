@@ -10,7 +10,7 @@
 ### 服务端
 
 ```bash
-$ node ./simple_tcp_terminal.js
+$ node ./simple-tcp-terminal.js
 ```
 
 ### 客户端
